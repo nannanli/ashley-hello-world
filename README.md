@@ -1,2 +1,5 @@
 # ashley-hello-world
-my forst repo
+my first repo
+
+Hi Git, 
+Happy to be here to learn another new tool!
